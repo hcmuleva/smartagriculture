@@ -316,7 +316,3 @@ If you don't have the hardware ready yet, you can test the API using Postman:
 - URL: http://127.0.0.1:5000/api/v1/tasks/1/complete
 
 ---
-
-## Contact
-
-For API questions or issues, contact: **Nitin (Portfolio 2 — Backend Lead)**
